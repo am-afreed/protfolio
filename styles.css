@@ -251,6 +251,7 @@ nav {
     gap: .5em;
     display: grid;
     place-content: center;
+    background: #ffffffb8;
 }
 
 .card-button {
@@ -269,7 +270,7 @@ nav {
     transition: 0.3s ease-out;
 }
 .text-body {
-    color: rgb(134, 134, 134);
+    color: black;
 }
 
 /*Text*/
@@ -359,6 +360,10 @@ nav {
     padding-top: 40px;
     font-family: "Poppins", sans-serif;
     justify-content: center;
+}
+.wrapper a {
+    text-decoration: none;
+    color: #000;
 }
 
 .wrapper .icon {
