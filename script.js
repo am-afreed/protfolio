@@ -67,10 +67,19 @@ const projectsData = [
         githubUrl: "https://shop-afreed.netlify.app/",
         liveUrl: "https://shop-afreed.netlify.app/"
     },
+    
+    {
+        id: 4,
+        title: "Happi-vent",
+        description: "Event booking system that make memorable event",
+        image: "event-img.jpg",
+        githubUrl: "https://happiventsbyteamjacks.netlify.app/",
+        liveUrl: "https://happiventsbyteamjacks.netlify.app/"
+    },
     {
         id: 2,
         title: "Burger-shop",
-        description: "Online burger ordering system",
+        description: "Online burger landing and ordering website",
         image: "burger-img.jpg",
         githubUrl: "https://afreed-burger-shop.netlify.app/",
         liveUrl: "https://afreed-burger-shop.netlify.app/"
@@ -83,6 +92,7 @@ const projectsData = [
         githubUrl: "https://lazeez-afreed.netlify.app/",
         liveUrl: "https://lazeez-afreed.netlify.app/"
     }
+    
     
 ];
 
